@@ -6,6 +6,4 @@ this is from merge.
 
 this is from second.
 
-this is from second.
-
-hello.
+this is from first.
