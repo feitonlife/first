@@ -9,3 +9,5 @@ this is from second.
 this is from first.
 
 this should be reset.
+
+hello.
